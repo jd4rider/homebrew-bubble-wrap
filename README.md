@@ -1,6 +1,7 @@
 # Homebrew Tap for Bubble Wrap
 
 ```bash
+brew trust jd4rider/bubble-wrap
 brew install --cask jd4rider/bubble-wrap/bubble-wrap
 ```
 
